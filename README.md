@@ -6,7 +6,7 @@ This is a real-time stock market dashboard built with Streamlit, yFinance, and P
 
 
 
-🔧 Features:
+Features:
 Real-time stock data using Yahoo Finance API
 
 Line and candlestick charts with Plotly
